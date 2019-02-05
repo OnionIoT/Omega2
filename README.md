@@ -2,6 +2,14 @@
 
 Files related to the Onion Omega2 IoT Computer family.
 
+### Repository Contents
+
+* [Schematics](./Schematics)
+  * Omega2S Design Reference Schematic
+  * Omega2S Dev Board Schematic
+* [Footprint](./Footprint)
+  * Official Eagle Library
+
 ## Models
 
 | Device   | Packaging     | RAM   | Flash |
