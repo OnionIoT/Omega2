@@ -14,7 +14,7 @@
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
 <layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
@@ -22,7 +22,7 @@
 <layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
 <layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
@@ -420,8 +420,8 @@
 <smd name="VIN_FLASH" x="19.05" y="-1.143" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
 <smd name="6" x="19.05" y="0.127" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
 <smd name="7" x="19.05" y="1.397" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
-<smd name="8" x="19.05" y="2.667" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
-<smd name="9" x="19.05" y="3.937" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
+<smd name="9" x="19.05" y="2.667" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
+<smd name="8" x="19.05" y="3.937" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
 <smd name="10" x="19.05" y="5.207" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
 <smd name="11" x="19.05" y="6.477" dx="1.4224" dy="0.7112" layer="1" rot="R180"/>
 <circle x="-13.081" y="5.969" radius="0.359209375" width="0.127" layer="21"/>
@@ -496,8 +496,8 @@
 <text x="-22.86" y="7.62" size="1.27" layer="96" font="vector">&gt;VALUE</text>
 <pin name="GPIO11" x="45.72" y="15.24" length="middle" rot="R180"/>
 <pin name="SPI_CS0/GPIO10" x="45.72" y="12.7" length="middle" rot="R180"/>
-<pin name="SPI_MISO/GPIO9" x="45.72" y="10.16" length="middle" rot="R180"/>
-<pin name="SPI_MOSI/GPIO8" x="45.72" y="7.62" length="middle" rot="R180"/>
+<pin name="SPI_MOSI/GPIO8" x="45.72" y="10.16" length="middle" rot="R180"/>
+<pin name="SPI_MISO/GPIO9" x="45.72" y="7.62" length="middle" rot="R180"/>
 <pin name="SPI_CLK/GPIO7" x="45.72" y="5.08" length="middle" rot="R180"/>
 <pin name="SPI_CS1/GPIO6" x="45.72" y="2.54" length="middle" rot="R180"/>
 <pin name="VIN_FLASH_3V3" x="45.72" y="0" length="middle" rot="R180"/>
