@@ -9,6 +9,9 @@ Files related to the Onion Omega2 IoT Computer family.
   * Product Brief
   * Certification Documents
   * Application Notes
+* [Images](./Images)
+  * Product Photos
+  * Illustrations
 * [Schematics](./Schematics)
   * Omega2S Design Reference Schematic
   * Omega2S Dev Board Schematic
