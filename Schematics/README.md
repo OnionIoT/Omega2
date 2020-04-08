@@ -6,6 +6,8 @@ Reference schematic for use with the Omega2S
 
 ### Updates
 
+* Apr 8, 2020
+    * Omega2S bottom pad changed to N/C
 * May 7, 2018
     * Added descriptive comments 
 * Mar 17, 2018
