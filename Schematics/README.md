@@ -5,6 +5,12 @@
 Reference schematic for use with the Omega2S
 
 ### Updates
+Version 4 - Oct 19, 2020
+
+* Page 1 - Change decoupling capacitor for 3.3VD
+  * ![](./img/o2s-ref-sch-v3-change-0.png)
+* Page 5 - Add SD Nand Flash circuit
+  * ![](./img/o2s-ref-sch-v3-change-1.png)
 
 Version 3 - Jun 4, 2020
 
