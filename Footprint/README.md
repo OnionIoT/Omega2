@@ -5,6 +5,7 @@ Official hardware footprint libraries for the Onion Omega2 IoT Computer family
 * Footprint CAD file - `Omega2S-Footprint.dxf`
 * Eagle Library - `OnionOmega2.lbr`
 * Altium Designer Library - `Omega2S-Footprint.asc`
+* Altium Designer Library - `Omega2S -For-Altium-Designer.PcbLib`
 * PADS PCB Design Software Library - `Omega2S-Footprint.pcb`
 
 ## `Omega2S-Footprint.dxf`
